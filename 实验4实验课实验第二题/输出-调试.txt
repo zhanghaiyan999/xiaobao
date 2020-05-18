@@ -1,0 +1,91 @@
+﻿“MFCApplication4(2).exe”(Win32): 已加载“D:\实验1\MFCApplication4(2)\Debug\MFCApplication4(2).exe”。已加载符号。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\user32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\win32u.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\mfc140ud.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\advapi32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\gdi32full.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\sspicli.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\oleaut32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptbase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\combase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.778_none_2e73ee38278978be\comctl32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\ole32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\shlwapi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\vcruntime140d.dll”
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\imm32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.778_none_5f5ee11d821bf28c\GdiPlus.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\uxtheme.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\shell32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\SHCore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\windows.storage.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\profapi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\powrprof.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\umpdc.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\cryptsp.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\msctf.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\clbcatq.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\DataExchange.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\dcomp.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\d3d11.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\dxgi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\DXCore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\twinapi.appcore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\rmclient.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\ntmarta.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\WinTypes.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\WinTypes.dll”
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\iertutil.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouTSF.ime”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\msimg32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\version.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\SogouPY.ime”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\ws2_32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\oleacc.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\Components\PicFace\1.0.0.1833\PicFace.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\comdlg32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\8.3.0.9576\Resource.dll”。模块已生成，不包含符号。
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Program Files (x86)\SogouInput\8.3.0.9576\Resource.dll”
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\8.3.0.9576\Resource.dll”。模块已生成，不包含符号。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\dwmapi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication4(2).exe”(Win32): 已加载“C:\Windows\SysWOW64\psapi.dll”。无法查找或打开 PDB 文件。
+线程 0x44d4 已退出，返回值为 0 (0x0)。
+d:\agent\_work\1\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\afxtoolbarimages.cpp(1087) : atlTraceGeneral - Can't load bitmap: .\UserImages.bmp. GetLastError() = 2
+线程 0x3844 已退出，返回值为 0 (0x0)。
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\dxgi.dll”
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\d3d11.dll”
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\dcomp.dll”
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\rmclient.dll”
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\twinapi.appcore.dll”
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\DataExchange.dll”
+“MFCApplication4(2).exe”(Win32): 已卸载“C:\Windows\SysWOW64\SogouTSF.ime”
+线程 0x103c 已退出，返回值为 0 (0x0)。
+线程 0x2654 已退出，返回值为 0 (0x0)。
+线程 0x44b8 已退出，返回值为 0 (0x0)。
+线程 0x44fc 已退出，返回值为 0 (0x0)。
+线程 0x378 已退出，返回值为 0 (0x0)。
+线程 0x389c 已退出，返回值为 0 (0x0)。
+线程 0xcf8 已退出，返回值为 0 (0x0)。
+线程 0x664 已退出，返回值为 0 (0x0)。
+线程 0x2110 已退出，返回值为 0 (0x0)。
+线程 0x4310 已退出，返回值为 0 (0x0)。
+线程 0x1d58 已退出，返回值为 0 (0x0)。
+程序“[17480] MFCApplication4(2).exe”已退出，返回值为 0 (0x0)。
