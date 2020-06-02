@@ -1,0 +1,120 @@
+﻿“MFCApplication5(3).exe”(Win32): 已加载“D:\实验1\MFCApplication5(3)\x64\Debug\MFCApplication5(3).exe”。已加载符号。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\user32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\win32u.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\gdi32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\mfc140ud.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\gdi32full.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\advapi32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\msvcp_win.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\ucrtbase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\ole32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\oleaut32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\combase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\combase.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\combase.dll”
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\bcryptprimitives.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\shlwapi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.18362.778_none_e6c6b761130d4fb8\comctl32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\imm32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.18362.778_none_17b1aa466d9fc986\GdiPlus.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\uxtheme.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\shell32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\cfgmgr32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\SHCore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\windows.storage.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\profapi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\powrprof.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\umpdc.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\cryptsp.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\msctf.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\clbcatq.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\DataExchange.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\dcomp.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\d3d11.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\dxgi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\DXCore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\twinapi.appcore.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\rmclient.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\TextInputFramework.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\CoreMessaging.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\CoreUIComponents.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\ntmarta.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\WinTypes.dll”
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\WinTypes.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\WinTypes.dll”
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\iertutil.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\SogouTSF.ime”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\msimg32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\version.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\SogouPY.ime”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\oleacc.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\8.3.0.9576\Resource.dll”。模块已生成，不包含符号。
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Program Files (x86)\SogouInput\8.3.0.9576\Resource.dll”
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\8.3.0.9576\Resource.dll”。模块已生成，不包含符号。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Program Files (x86)\SogouInput\Components\PicFace\1.0.0.1833\PicFace64.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\comdlg32.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\dwmapi.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\psapi.dll”。无法查找或打开 PDB 文件。
+线程 0x4710 已退出，返回值为 0 (0x0)。
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\afxtoolbarimages.cpp(1087) : atlTraceGeneral - Can't load bitmap: .\UserImages.bmp. GetLastError() = 2
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\cryptbase.dll”。无法查找或打开 PDB 文件。
+线程 0x172c 已退出，返回值为 0 (0x0)。
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\winmm.dll”。无法查找或打开 PDB 文件。
+“MFCApplication5(3).exe”(Win32): 已加载“C:\Windows\System32\winmmbase.dll”。无法查找或打开 PDB 文件。
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8005.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8005.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8005.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8005.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8005.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8006.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8006.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8006.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x0000.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8005.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8006.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8007.
+线程 0x4fd0 已退出，返回值为 0 (0x0)。
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8007.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8007.
+d:\agent\_work\2\s\src\vctools\vc7libs\ship\atlmfc\src\mfc\winfrm.cpp(1628) : AppMsg - Warning: no message line prompt for ID 0x8007.
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\dxgi.dll”
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\d3d11.dll”
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\dcomp.dll”
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\rmclient.dll”
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\twinapi.appcore.dll”
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\DataExchange.dll”
+“MFCApplication5(3).exe”(Win32): 已卸载“C:\Windows\System32\SogouTSF.ime”
+线程 0x22a0 已退出，返回值为 0 (0x0)。
+线程 0x4838 已退出，返回值为 0 (0x0)。
+线程 0x4758 已退出，返回值为 0 (0x0)。
+线程 0x41a0 已退出，返回值为 0 (0x0)。
+线程 0x5250 已退出，返回值为 0 (0x0)。
+线程 0x4864 已退出，返回值为 0 (0x0)。
+线程 0x3df8 已退出，返回值为 0 (0x0)。
+线程 0x3fcc 已退出，返回值为 0 (0x0)。
+线程 0x41c4 已退出，返回值为 0 (0x0)。
+线程 0xdb8 已退出，返回值为 0 (0x0)。
+线程 0x4518 已退出，返回值为 0 (0x0)。
+程序“[18160] MFCApplication5(3).exe”已退出，返回值为 0 (0x0)。
